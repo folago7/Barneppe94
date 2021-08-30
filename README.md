@@ -17,9 +17,9 @@ OSChina 的 [OpenAPI](http://www.oschina.net/openapi) 存在很多BUG和缺陷�
 3. [blog_comment_list](http://www.oschina.net/openapi/docs/blog_comment_list) 和 [comment_list](http://www.oschina.net/openapi/docs/comment_list) 有很多差异，比如字段大小写、字段的数量、是否存在 refers 的差异等等，很坑，得小心。还有[blog_comment_pub](http://www.oschina.net/openapi/docs/blog_comment_pub) [blog_comment_reply](http://www.oschina.net/openapi/docs/blog_comment_reply) 与 [comment_pub](http://www.oschina.net/openapi/docs/comment_pub) [comment_reply](http://www.oschina.net/openapi/docs/comment_reply) 有所差异，得注意。
 
 ### 扫描下载
-![扫描下载](http://static.oschina.net/uploads/space/2015/0409/123631_wZHA_252582.jpg "扫描下载")
+![扫描下载](http://static.oschina.net/uploads/space/2015/0409/210956_knwL_252582.jpg "扫描下载")
 
-对应版本 2015-04-09 0587b6266 修复云编译后出现的登录问题
+对应版本 2015-04-09 58e09d160
 
 ### 预览图
 ![输入图片说明](http://static.oschina.net/uploads/space/2015/0403/012845_NWTF_252582.jpg "登录页")
@@ -30,10 +30,14 @@ OSChina 的 [OpenAPI](http://www.oschina.net/openapi) 存在很多BUG和缺陷�
 
 ![输入图片说明](http://static.oschina.net/uploads/space/2015/0403/012844_LXXT_252582.png "博客列表页")
 
-![输入图片说明](http://static.oschina.net/uploads/space/2015/0403/012844_Jzas_252582.png "资讯详情页面")
+![输入图片说明](http://static.oschina.net/uploads/space/2015/0409/212331_1iFF_252582.jpg "资讯详情页面")
 
-![输入图片说明](http://static.oschina.net/uploads/space/2015/0403/012845_xYLX_252582.png "评论页")
+![资讯详情页面也能直接评论](http://static.oschina.net/uploads/space/2015/0409/212018_xYMS_252582.jpg "资讯详情页面也能直接评论")
 
-![资讯详情页面也能直接评论](http://static.oschina.net/uploads/space/2015/0403/012845_gHmq_252582.png "资讯详情页面也能直接评论")
+![输入图片说明](http://static.oschina.net/uploads/space/2015/0409/212017_hT0I_252582.jpg "评论页")
 
-![输入图片说明](http://static.oschina.net/uploads/space/2015/0403/012845_Vvqy_252582.png "博客详情页")
+![输入图片说明](http://static.oschina.net/uploads/space/2015/0409/212018_BPsU_252582.jpg "回复表情")
+
+![输入图片说明](http://static.oschina.net/uploads/space/2015/0409/212020_qnVF_252582.jpg "博客详情页")
+
+![输入图片说明](http://static.oschina.net/uploads/space/2015/0409/212019_Qonz_252582.jpg "图组浏览")
